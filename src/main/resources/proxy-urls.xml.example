@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sources>
+    <source url="https://change.me" type="JavaProxy.Type.HTTP" />
+    <source url="https://change.me/soc" type="JavaProxy.Type.SOCKS" extra="--socks4" />
+    <source url="https://change.me/" type="JavaProxy.Type.SOCKS" extra="--socks5" />
+</sources>

@@ -1,0 +1,7 @@
+target/
+project/
+.vscode/
+.bsp/
+.bloop/
+.metals/
+src/main/resources/proxy-urls.xml
